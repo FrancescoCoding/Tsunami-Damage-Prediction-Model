@@ -19,7 +19,7 @@ RGNMagnitudes = function(n) rnorm(n, mean = 7.046676, sd = 0.7961247); # Normal 
     summary(RGNMagnitudes(100))
     hist(RGNMagnitudes(100), main = "RGN Magnitudes (100 Steps)", col= c("#f94144", "#ffe8d6", "#d8e2dc"))
 
-# ---------------------------
+# ----------------------------
 # VARIABLE 2 - RGN WATER DEPTH
 # Water depth function (generate n water depth values with range 1000 to 6000 meters) # Discrete numerical
 
