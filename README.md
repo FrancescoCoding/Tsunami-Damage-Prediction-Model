@@ -17,19 +17,19 @@ R of randomly generating values for each variable;
   - A **Sprint Review** meeting at the end of the session before each member leaves
 
 ### The model has several variables that influence the final damage prediction.
-### - Water Depth:
+### Water Depth:
 ![alt text](https://abload.de/img/waterdepthrzjqg.png)
 
-### - Damage Prediction:
+### Damage Prediction:
 ![alt text](https://abload.de/img/predictingdamage5ljg9.png)
 
-### - Overall Model:
+### Overall Model:
 ![alt text](https://abload.de/img/overall_modelvskkl.png)
 
-### - Final output with the predicted damage:
+### Final output with the predicted damage:
 ![alt text](https://abload.de/img/rgnoutputcgk89.png)
 
-### - Specific tsunami prediction:
+### Specific tsunami prediction:
 ![alt text](https://abload.de/img/extramgkgh.png)
 
 
