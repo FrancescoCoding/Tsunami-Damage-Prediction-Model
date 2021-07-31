@@ -16,7 +16,7 @@ R of randomly generating values for each variable;
   - One or more **Scrum meetings** throughout the sessions to communicate progress and coordinate activity
   - A **Sprint Review** meeting at the end of the session before each member leaves
 
-## The model has several variables that influence the final damage prediction.
+## The model has several variables that influence the final damage prediction. Some of these include:
 ### Water Depth:
 ![alt text](https://abload.de/img/waterdepthrzjqg.png)
 
