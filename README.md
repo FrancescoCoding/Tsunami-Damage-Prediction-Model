@@ -10,6 +10,7 @@ For each random variable, we had to construct an appropriate probabilistic model
 - Coordinating and leading group sessions to coordinate advancement.
 - Formulating a **probabilistic model** illustrated by random samples that accurately match the corresponding model.
 - Research and define each attribute of the model rigorously and combined them in a coherent manner.
+- Utilizing ggPlot for visualizing data
 - Utilizing the team management **Agile** framework including:
   - A **Sprint Planning** meeting at the start of each team session
   - One or more **Scrum meetings** throughout the sessions to communicate progress and coordinate activity
@@ -21,16 +22,16 @@ For each random variable, we had to construct an appropriate probabilistic model
 ![Water depth](https://abload.de/img/waterdepthrzjqg.png)
 
 ### Predicting Damage
-![alt text](https://abload.de/img/predictingdamage5ljg9.png)
+![Predicting Damage](https://abload.de/img/predictingdamage5ljg9.png)
 
 ### Overall Model
-![alt text](https://abload.de/img/overall_modelvskkl.png)
+![Overall Model](https://abload.de/img/overall_modelvskkl.png)
 
 ### Final output with the predicted damage
-![alt text](https://abload.de/img/rgnoutputcgk89.png)
+![Final output](https://abload.de/img/rgnoutputcgk89.png)
 
 ### Specific tsunami prediction
-![alt text](https://abload.de/img/extramgkgh.png)
+![Tsunami prediction](https://abload.de/img/extramgkgh.png)
 
 ### Latitude and Longitude in the dataset visualized by Magnitude
-![alt text](https://abload.de/img/22a9b9b2-3cbf-40e4-91i3j85.png)
+![Map chart](https://abload.de/img/22a9b9b2-3cbf-40e4-91i3j85.png)
