@@ -10,7 +10,7 @@ For each random variable, we had to construct an appropriate probabilistic model
 - Coordinating and leading group sessions to coordinate advancement.
 - Formulating a **probabilistic model** illustrated by random samples that accurately match the corresponding model.
 - Research and define each attribute of the model rigorously and combined them in a coherent manner.
-- Utilizing ggPlot for visualizing data
+- Utilizing ggPlot2 for visualizing data
 - Utilizing the team management **Agile** framework including:
   - A **Sprint Planning** meeting at the start of each team session
   - One or more **Scrum meetings** throughout the sessions to communicate progress and coordinate activity
