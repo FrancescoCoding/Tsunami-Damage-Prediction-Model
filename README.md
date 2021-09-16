@@ -33,5 +33,5 @@ For each random variable, we had to construct an appropriate probabilistic model
 ### Specific tsunami prediction
 ![Tsunami prediction](https://abload.de/img/extramgkgh.png)
 
-### Latitude and Longitude in the dataset visualized by Magnitude
+### Latitudes and Longitudes in the dataset visualized by Magnitude
 ![Map chart](https://abload.de/img/22a9b9b2-3cbf-40e4-91i3j85.png)
