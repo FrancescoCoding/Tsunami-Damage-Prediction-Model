@@ -18,7 +18,7 @@ For each random variable, we had to construct an appropriate probabilistic model
 ## Some of the implementations of the damage prediction model:
 
 ### Water Depth
-![alt text](https://abload.de/img/waterdepthrzjqg.png)
+![Water depth](https://abload.de/img/waterdepthrzjqg.png)
 
 ### Predicting Damage
 ![alt text](https://abload.de/img/predictingdamage5ljg9.png)
@@ -32,4 +32,5 @@ For each random variable, we had to construct an appropriate probabilistic model
 ### Specific tsunami prediction
 ![alt text](https://abload.de/img/extramgkgh.png)
 
-
+### Latitude and Longitude in the dataset visualized by Magnitude
+![alt text](https://abload.de/img/22a9b9b2-3cbf-40e4-91i3j85.png)
