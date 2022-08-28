@@ -6,6 +6,8 @@ In this team project, I had to choose, research and define a set of random varia
 
 For each random variable, we had to construct an appropriate probabilistic model of the distribution of values that the variable can take and to implement a means in R of randomly generating values for each variable;
 
+Most of the RGN properties created in this model are based on the historical tsunamis dataset you find in this repo [Dataset >](https://github.com/FrancescoCoding/Tsunami-Damage-Prediction-Model/blob/main/tsunami_dataset.csv).
+
 ### This team project has enabled me to work on several skills, including:
 - Coordinating and leading group sessions to coordinate advancement.
 - Formulating a **probabilistic model** illustrated by random samples that accurately match the corresponding model.
